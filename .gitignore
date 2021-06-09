@@ -1,0 +1,3 @@
+/node_modules/
+
+# ^ forward slash before the folder name signifies root dir
